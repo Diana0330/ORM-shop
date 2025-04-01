@@ -1,3 +1,5 @@
+This is a solution to a homework assignment "Work with ORM".
+
 # Домашнее задание к занятию «Работа с ORM»
 
 ### Цель задания
